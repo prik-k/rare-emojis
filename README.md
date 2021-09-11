@@ -1,5 +1,7 @@
 # rare-emojis
 1. ₿
 2. 
-3. :shipit: 
-4. :trollface:
+3. 🐧
+4. :shipit: 
+5. :trollface:
+6. 
